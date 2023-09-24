@@ -1,0 +1,65 @@
+
+const products = [
+  {
+    "name": "Blue Plantable Stationery Seed Pens",
+    "image": "https://m.media-amazon.com/images/I/911K3oHrYwL._SY679_.jpg",
+    "price": 250,
+  },
+  {
+    "name": "Bamboo Fibre Dinner Sets",
+    "image": "https://dusaan.com/cdn/shop/products/DBF12A1_1_f6f2a432-a0d8-4ad8-88ff-0962ae909adf.jpg?v=1680613345&width=800",
+    "price": 1620,
+  },
+  {
+    "name": "Seagrass Tissue Box",
+    "image": "https://www.nobbys.in/cdn/shop/files/Seagrass-Tissue-Box-Nobbys-905.jpg?v=1687534188",
+    "price": 720,
+  },
+  {
+    "name": "Paddy Straw And Seagrass Placemat With Wooden Bead Edge",
+    "image": "https://www.nobbys.in/cdn/shop/files/Paddy-Straw-And-Seagrass-Placemat-With-Wooden-Bead-Edge-Nobbys-147.jpg?v=1687532188",
+    "price": 650,
+  },
+  {
+    "name": "Coconut Bowl With Spoon and Fork",
+    "image": "https://amala.earth/cdn/shop/products/2_b172baaf-a5f1-4e1d-b593-af12a05f787e_600x.jpg?v=1650461605",
+    "price": 800,
+  },
+  {
+    "name": "Opium Pendant Lamp",
+    "image": "https://www.mianzi.in/cdn/shop/products/Opium300LightOn.jpg?v=1674906647&width=600",
+    "price": 5000,
+  },
+  {
+    "name": "Thenga Coconut Shell Eco-Friendly Soap Holders",
+    "image": "https://m.media-amazon.com/images/I/81Vvtvoe4eL._SX522_.jpg",
+    "price": 330,
+  },
+  {
+    "name": "Mushroom Pendant Lamp",
+    "image": "https://www.mianzi.in/cdn/shop/products/Mushroom200Blue.jpg?v=1674906663&width=600",
+    "price": 2430,
+  },
+  {
+    "name": "Bamboo Straws",
+    "image": "https://images.squarespace-cdn.com/content/v1/5e5cd082c50ea102c52e5bb0/1590938156183-DGYT1XZMWUDR9LQV5EDW/bamboo-straws-3.jpg?format=1000w",
+    "price": 330,
+  },
+  {
+    "name": "BAMBOO TOOTHBRUSH",
+    "image": "https://aranieco.com/wp-content/uploads/2021/02/single-tb.jpg",
+    "price": 80,
+  },
+  {
+    "name": "Wooden Pen",
+    "image": "https://amala.earth/cdn/shop/products/2_73620fa4-0108-45c7-9544-a951448a38cb_600x.jpg?v=1680262793",
+    "price": 230,
+  },
+  {
+    "name": "Bamboo Bowls and Spoons Set",
+    "image": "https://amala.earth/cdn/shop/products/SK-BBS-TC-02-SC_2_600x.jpg?v=1685101555",
+    "price": 800,
+  }
+  // Add more products here if needed
+];
+

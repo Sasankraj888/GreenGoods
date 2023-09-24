@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GreenGoods Store - Shop</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="shop">
+  <header>
+    <h1>GreenGoods Store</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="#">Shop</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <div class="search-container">
+      <input type="text" id="search-input" placeholder="Search products...">
+      <button id="search-button">Search</button>
+    </div>
+
+    <section class="products">
+      <h2>Featured Products</h2>
+      <div class="product-container" id="featured-products-container">
+        <!-- Featured products will be dynamically added here -->
+      </div>
+      <div class="scroll-button-container">
+        <button class="scroll-button-left">&lt;</button>
+        <button class="scroll-button-right">&gt;</button>
+      </div>
+    </section>
+
+    <section class="suggested-products">
+      <h2>Suggested Products</h2>
+      <div class="product-container" id="suggested-products-container">
+        <!-- Suggested products will be dynamically added here -->
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 GreenGoods Store. All rights reserved.</p>
+  </footer>
+
+  <!-- JavaScript File -->
+  <script src="products.js"></script>
+</body>
+
+</html>

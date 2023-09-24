@@ -1,0 +1,27 @@
+const suggestedProducts = [
+  {
+    "name": "Mushroom Pendant Lamp",
+    "image": "https://www.mianzi.in/cdn/shop/products/Mushroom200Blue.jpg?v=1674906663&width=600",
+    "price": 2430,
+  },
+  {
+    "name": "Bamboo Straws",
+    "image": "https://images.squarespace-cdn.com/content/v1/5e5cd082c50ea102c52e5bb0/1590938156183-DGYT1XZMWUDR9LQV5EDW/bamboo-straws-3.jpg?format=1000w",
+    "price": 330,
+  },
+  {
+    "name": "BAMBOO TOOTHBRUSH",
+    "image": "https://aranieco.com/wp-content/uploads/2021/02/single-tb.jpg",
+    "price": 80,
+  },
+  {
+    "name": "Wooden Pen",
+    "image": "https://amala.earth/cdn/shop/products/2_73620fa4-0108-45c7-9544-a951448a38cb_600x.jpg?v=1680262793",
+    "price": 230,
+  },
+  {
+    "name": "Bamboo Bowls and Spoons Set",
+    "image": "https://amala.earth/cdn/shop/products/SK-BBS-TC-02-SC_2_600x.jpg?v=1685101555",
+    "price": 800,
+  }
+];
